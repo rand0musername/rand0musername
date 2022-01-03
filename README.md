@@ -1,4 +1,4 @@
-Hi 👋, I am Nikola, an incoming PhD student in the [<img src="https://www.sri.inf.ethz.ch/assets/images/sri-logo.svg" style="height:17px" />](https://www.sri.inf.ethz.ch/) at ETH Zürich, focusing on Machine Learning Privacy & Security 🔒. 
+Hi 👋, I am Nikola, a PhD student in the [<img src="https://www.sri.inf.ethz.ch/assets/images/sri-logo.svg" style="height:17px" />](https://www.sri.inf.ethz.ch/) at ETH Zürich, focusing on Machine Learning Privacy & Security 🔒. 
 
 Shoot me an [email](mailto:nikola.jovanovic@inf.ethz.ch) or reach out on [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="height:22px"/>](https://www.linkedin.com/in/nijovanovic/) or [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" style="height:22px" />](https://twitter.com/ni_jovanovic).
 
