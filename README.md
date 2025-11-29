@@ -1,4 +1,4 @@
-Hi 👋 I am Nikola, a final-year PhD student in the [SRI Lab](https://www.sri.inf.ethz.ch/) at ETH Zurich working on watermarking in generative AI, LLM/VLM evaluations, and more broadly the topic of trustworthy machine learning,
+Hi 👋 I am Nikola, a final-year PhD student in the [SRI Lab](https://www.sri.inf.ethz.ch/) at ETH Zurich working on watermarking in generative AI, LLM/VLM evaluations, and more broadly the topic of trustworthy machine learning.
 
 For examples of my recent work check out:
 - My Meta FAIR internship project on watermarking for autoregressive image generation ([NeurIPS'25](https://arxiv.org/pdf/2506.16349))
